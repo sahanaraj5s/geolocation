@@ -4,5 +4,6 @@ django-cors-headers==3.7.0
 djangorestframework==3.11.0
 geographiclib==1.50
 geopy==2.1.0
+python-dotenv==0.15.0
 pytz==2021.1
 sqlparse==0.4.1
